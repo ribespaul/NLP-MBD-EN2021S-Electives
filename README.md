@@ -11,7 +11,7 @@ This section covers the instructions to configure the repo for executing locally
 
 ## Create the working directory
 
-On your computer, create the directory on which you want to work. In my case, it's called `natural_language_processing`.
+On your computer, create the directory on which you want to work. In my case, it's called `NLP-MBD-EN2021S-Electives`.
 
 ## Connect your local directory to this repository
 
@@ -24,7 +24,7 @@ cd /
 ```  
 Clone the repository
 ```
-git clone https://github.com/acastellanos-ie/NLP-MBD-EN-ABR-2021-A-1.git
+git clone https://github.com/acastellanos-ie/NLP-MBD-EN2021S-Electives.git
 ```
 
 After cloning you should see all the materials in your local folder (and your local folder will be connected to this repo).
